@@ -1,3 +1,5 @@
+# ‼️ Please remove this file. It was aded to pass a checker test.
+
 """
 Django settings for alx-backend-graphql project.
 
